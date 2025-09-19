@@ -1,0 +1,8 @@
+-- create database --
+CREATE DATABASE
+
+-- ACTIVATE DATASE
+USE myDB;
+
+-- DROP DATABASE --
+DROP myDB;
